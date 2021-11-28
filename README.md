@@ -8,8 +8,11 @@ Installer MissFranceByRobot :
 
 ```bash
 git clone https://github.com/anisayari/MissFranceByRobot.git
+cd MissFranceByRobot
+python -m pip install jupyter
+jupyter notebook 
 ```
 
 ## Contribuer
 
-Tu peux pull quand tu veux mais pour l'instant c'est surtout des images des miss france : 2017 et 2016
+Pour contribuer tu peux pull toutes les photos des miss frances pour l'instant on en est a 2011
