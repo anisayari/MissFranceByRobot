@@ -15,4 +15,4 @@ jupyter notebook
 
 ## Contribuer
 
-Pour contribuer tu peux pull toutes les photos des miss frances pour l'instant on en est a 2011
+Pour contribuer tu peux pull toutes les photos des miss frances que tu trouves pour l'instant on en est a 2011
